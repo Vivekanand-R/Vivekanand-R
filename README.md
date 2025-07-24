@@ -2,7 +2,7 @@
 
 A results-driven Lead Product & Analytics with **10+ years of global experience** delivering data-driven solutions across Healthcare, Finance, Energy, and IT services. Passionate about building intelligent systems that bridge the gap between business strategy and data science innovation.
 
-- **Industries** – Healthcare (5 Years), Energy (3 Years), IT (2 Years), Finance, and KPO.
+- **Industry Experience** – 8 years in Digital Technology, 5 years in Healthcare, 3 years in Energy, 2 years in IT, plus experience in Commercial Finance and KPO.
 - **Interest** - AI Product Management and/or Commercial Data Analytics role.
 ---
 
@@ -18,7 +18,7 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 `Teradata`, `Oracle`, `RedShift`, `Greenplum`, `Athena`, `PostgreSQL`, `MySQL`, `SQLite`  
 
 **Programming:**  
-`Python`, `R`, `SQL`, `VBA`, `C#`, `HTML`, `Visual Basic`  
+`Python`, `R`, `SQL`, `VBA`, `HTML`, `Visual Basic`, `C# Basics`  
 
 **CI/CD & Automation:**  
 `AWS Code Pipeline`, `Python Automation`, `Excel Macros`  
