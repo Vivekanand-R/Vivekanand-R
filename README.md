@@ -39,7 +39,7 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 
 📧 [vivekanandramakrishnan@outlook.com](mailto:vivekanandramakrishnan@outlook.com)  
 📍 Based in Austria  
-🌐 [Tableau Public Portfolio](https://public.tableau.com/app/profile/vivekanand4623/vizzes)
+🌐 [Tableau Public](https://public.tableau.com/app/profile/vivekanand4623/vizzes)
 
 ---
 
