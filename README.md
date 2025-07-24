@@ -1,20 +1,58 @@
-# Hi 👋, I'm Vivek
+# Vivek
 
-AI Product Manager | Data Scientist | Cloud Solutions Architect  | Business Intelligence | Deep Learning | Big Data | Finance & Healthcare Analytics  
+A results-driven AI Product & Analytics Leader with 10+ years of global experience delivering data-driven solutions across Healthcare, Finance, Energy, and IT services. Passionate about building intelligent systems that bridge the gap between business strategy and data science innovation.
 
-- 🔭 Currently working on AI Agents, LLM Applications, and Cloud-Native AI Products  
-- 🧠 Exploring Quantum AI, MLOps, and Self-Healing Systems  
-- 🛠️ Tools I work with: AWS (S3, Redshift, RDS), Azure, GCP, Tableau, Python, PyTorch, Spark  
-- 📈 Built 30+ Executive Dashboards and 20+ AI Models across global healthcare and finance domains  
-- 📬 Reach me at: [vivekanandramakrishnan@outlook.com](mailto:vivekanandramakrishnan@outlook.com)
+---
+- **Industries** – Healthcare (5 Years), Energy (3 Years), IT (2 Years), Finance, and KPO.
+- 
+---
+
+## Core Competence
+
+- **Artificial Intelligence: Models and Product Frameworks**: Supervised & unsupervised learning, deep learning, model tuning, AI agents.
+- **Data Visualization**: Tableau, Spotfire, Kibana – strategic dashboards for business stakeholders.
+- **Big Data Analytics**: Scaled data solutions from millions to billions of records.
+- **Cloud & Infrastructure**: AWS, Azure, GCP; automation with CI/CD, A100 GPU training.
+- **Automation & Integration**: Python, VBA, Salesforce, Excel automation.
+- **Data Regulations**: Experience with GDPR and international data compliance.
 
 ---
 
-### 🔧 Tech Stack & Tools
+## 🛠️ Technical Skills
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau)
-![Pytorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+**Cloud Platforms:**  
+`AWS`, `Azure`, `Google Cloud`  
+
+**BI & Visualization:**  
+`Tableau`, `Spotfire`, `Kibana`, `Power BI`, `OBIEE`, `Excel`  
+
+**Databases:**  
+`Teradata`, `Oracle`, `RedShift`, `Greenplum`, `Athena`, `PostgreSQL`, `MySQL`, `SQLite`  
+
+**Programming:**  
+`Python`, `R`, `SQL`, `VBA`, `C#`, `HTML`, `Visual Basic`  
+
+**CI/CD & Automation:**  
+`AWS Code Pipeline`, `Python Automation`, `Excel Macros`  
+
+**Enterprise Systems:**  
+`Oracle`, `SAP`, `Hyperion`, `Workday`, `Salesforce`, `Support Central`
+
+---
+
+## Languages
+
+- **English** – Fluent  
+- **Tamil** – Native Speaker
+
+---
+
+## Let’s Connect
+
+📧 [vivekanandramakrishnan@outlook.com](mailto:vivekanandramakrishnan@outlook.com)  
+📍 Based in Austria  
+🌐 [Tableau Public Portfolio](https://public.tableau.com/app/profile/vivekanand4623/vizzes)
+
+---
+
+🔭 *Currently driven to create advanced analytics and intelligent systems that transform big data into actionable business insights.*
