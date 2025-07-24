@@ -1,6 +1,6 @@
 # Vivek
 
-A results-driven AI Product & Analytics Leader with **10+ years of global experience** delivering data-driven solutions across Healthcare, Finance, Energy, and IT services. Passionate about building intelligent systems that bridge the gap between business strategy and data science innovation.
+A results-driven Lead Product & Analytics with **10+ years of global experience** delivering data-driven solutions across Healthcare, Finance, Energy, and IT services. Passionate about building intelligent systems that bridge the gap between business strategy and data science innovation.
 
 ---
 - **Industries** – Healthcare (5 Years), Energy (3 Years), IT (2 Years), Finance, and KPO.
