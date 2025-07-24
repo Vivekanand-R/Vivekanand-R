@@ -43,4 +43,4 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 
 ---
 
-🔭 *Currently driven to create advanced analytics and intelligent systems that transform big data into actionable business insights.*
+*Currently driven to create advanced analytics and intelligent systems that transform big data into actionable business insights.*
