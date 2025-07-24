@@ -6,17 +6,6 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 - **Industries** – Healthcare (5 Years), Energy (3 Years), IT (2 Years), Finance, and KPO.
 ---
 
-## Core Competence
-
-- **Artificial Intelligence: Models and Product Frameworks**: Supervised & unsupervised learning, deep learning, model tuning, AI agents.
-- **Data Visualization**: Tableau, Spotfire, Kibana – strategic dashboards for business stakeholders.
-- **Big Data Analytics**: Scaled data solutions from millions to billions of records.
-- **Cloud & Infrastructure**: AWS, Azure, GCP; automation with CI/CD, A100 GPU training.
-- **Automation & Integration**: Python, VBA, Salesforce, Excel automation.
-- **Data Regulations**: Experience with GDPR and international data compliance.
-
----
-
 ## 🛠️ Technical Skills
 
 **Cloud Platforms:**  
