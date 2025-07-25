@@ -15,13 +15,13 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 `Tableau`, `Spotfire`, `Kibana`, `Power BI`, `OBIEE`, `Excel`  
 
 **Databases:**  
-`Teradata`, `Oracle`, `RedShift`, `Greenplum`, `Athena`, `PostgreSQL`, `MySQL`, `SQLite`  
+`Teradata`, `Oracle`, `RedShift`, `Greenplum`, `Athena`, `PostgreSQL`, `SQLite`  
 
 **Programming:**  
 `Python`, `R`, `SQL`, `VBA`, `HTML`, `Visual Basic`, `C# Basics`  
 
 **CI/CD & Automation:**  
-`AWS Code Pipeline`, `Python Automation`, `Excel Macros`  
+`AWS Code Pipeline`, 'Rally', `Python Automation`, `Excel Macros`  
 
 **Enterprise Systems:**  
 `Oracle`, `SAP`, `Hyperion`, `Workday`, `Salesforce`, `Support Central`
