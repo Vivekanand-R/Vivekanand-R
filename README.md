@@ -5,10 +5,6 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 - **Industry Experience** – 8 years in Digital Technology/IT, 6 years in Healthcare Industry, 3 years in Energy, plus experience in HQ Commercial Finance.
 - **Career Interest** - AI Product Management and/or Commercial Data Analytics roles.
 
-## Functional Leadership
-
-Market intelligence, portfolio expansion, installed base optimization, cross-functional collaboration, service and solutions sales, customer segmentation, cross-industry market insights, customer experience enhancement, commercial team, stakeholder communication, commercial acumen, change management, market and customer insights, product commercialization, pricing strategy, lifecycle management, creative problem-solving, proactive issue resolution, project management, interpersonal influence, soft and negotiation skills, team collaboration, data-driven decision-making, organizational skills, analytical thinking, Artificial Intelligence, Data Architect and digital analytics, HQ Finance, commercial automation. 
-
 ---
 
 ## 🛠️ Technical Leadership
