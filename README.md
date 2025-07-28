@@ -11,7 +11,7 @@ Strategic leadership, market intelligence, portfolio expansion, installed base o
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Leadership
 
 **Cloud Platforms:**  
 `AWS`, `Azure`, `Google Cloud`  
