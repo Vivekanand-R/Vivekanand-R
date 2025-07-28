@@ -7,7 +7,7 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 
 ## Functional Leadership
 
-Strategic leadership, market intelligence, portfolio expansion, installed base optimization, cross-functional collaboration, healthcare service and solutions sales, ultrasound equipment expertise, customer segmentation, remote relationship building, cross-industry insight sharing, customer experience enhancement, commercial team, stakeholder communication, clinical and commercial acumen, change management, market and customer insights, product commercialization, pricing strategy, lifecycle management, creative problem-solving, proactive issue resolution, project management, interpersonal influence, soft and negotiation skills, team collaboration, data-driven decision-making, organizational skills, analytical thinking, Artificial Intelligence, Data Analytics, HQ Finance, commercial automation. 
+Strategic leadership, market intelligence, portfolio expansion, installed base optimization, cross-functional collaboration, healthcare service and solutions sales, ultrasound equipment expertise, customer segmentation, remote relationship building, cross-industry insight sharing, customer experience enhancement, commercial team, stakeholder communication, commercial acumen, change management, market and customer insights, product commercialization, pricing strategy, lifecycle management, creative problem-solving, proactive issue resolution, project management, interpersonal influence, soft and negotiation skills, team collaboration, data-driven decision-making, organizational skills, analytical thinking, Artificial Intelligence, Data Architects and analytics, HQ Finance, commercial automation. 
 
 ---
 
