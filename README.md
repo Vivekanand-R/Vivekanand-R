@@ -33,7 +33,7 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 
 - **English** – Fluent  
 - **Tamil** – Native Speaker
-- **German** - Beginner
+- **German** - Beginner (A2.1)
 ---
 
 ## Let’s Connect
