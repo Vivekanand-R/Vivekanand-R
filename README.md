@@ -12,11 +12,11 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 **Cloud Platforms:**  
 `AWS`, `Azure`, `Google Cloud`  
 
-**AI Agents:**  
-Langchain
+**AI Models:**  
+Deep Learning (Neural Networks, Transformers, xLSTM, Recommenders: Bert4REc, SAS4REc ), Machine Learning (Supervised/Unsupervised), Generative AI, LLM's (GPT-4o API's, Phi2).
 
-**AI:**  
-Deep Learning, Machine Learning, Generative AI, and LLM's.
+**Autonomous AI Agents**
+Langchain (AI Agents) - Fintech Applications, Microsoft Phi2 - Research Agents
 
 **BI & Visualization:**  
 `Tableau`, `Spotfire`, `Kibana`, `Power BI`, `OBIEE`, `Excel`  
