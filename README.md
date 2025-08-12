@@ -9,24 +9,24 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 
 ## 🛠️ Technical Leadership
 
-**Cloud Platforms:**  
-`AWS`, `Azure`, `Google Cloud`, `Data Lake` 
-
 **AI Models:**  
 
-`Deep Learning`, : Neural Networks, Transformers, xLSTM, Convolutional Neural Networks (CNNs)
+1. `Deep Learning`, : Neural Networks, Transformers, xLSTM, Convolutional Neural Networks (CNNs)
 
-`Recommenders` : Sequencial Recommendations, Bert4REc, SAS4REc, Popularity Bias 
+2. `Recommenders` : Sequencial Recommendations, Bert4REc, SAS4REc, Popularity Bias 
 
-`Machine Learning` : Supervised/Unsupervised, 
+3. `Machine Learning` : Supervised/Unsupervised, 
 
-`Generative AI`, `LLM's` : GPT-4o API's, Phi2.
+4. `Generative AI`, `LLM's` : GPT-4o API's, Phi2.
 
 **Autonomous AI Agents**
 
 1. `Langchain`, (AI Agents, Role: Dedicated Fintech Analyst, LLM: GPT-40) - Application: Fintech, 
 
 2. `Microsoft Phi2` (Role: Research Experts, LLM: Phi2) - Application: Research
+
+**Cloud Platforms:**  
+`AWS`, `Azure`, `Google Cloud`, `Data Lake` 
 
 **BI & Visualization:**  
 `Tableau`, `Spotfire`, `Kibana`, `Power BI`, `OBIEE`, `Excel`  
