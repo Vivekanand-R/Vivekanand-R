@@ -19,7 +19,7 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 
 `4. Generative AI`, `LLM's` : GPT-4o API's, Phi2.
 
-**Autonomous AI Agents  (Developer)**
+**Autonomous AI Agents  (Consultant)**
 
 `5. Langchain`, (AI Agents, Role: Dedicated Finance Analyst, LLM: GPT-40) - Application: Fintech, 
 
@@ -28,7 +28,7 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 **Cloud Platforms: (Functional Lead/Consultant/Expert User)**  
 `7. AWS - S3, Athena, Redshift, Sagemaker, RDS`, `8. Azure- VM's, Databricks`, `9. Google Cloud-Colab Notebooks`, `10. Data Lake` 
 
-**BI & Visualization: (Digital Product Leader/Manager - Experienced Consultant)** 
+**BI & Visualization: (Staff Digital Product Leader/Manager - Experienced Architect)** 
 `11. Tableau-Calculative Fields`, `12. Spotfire-Information Links, AI Models`, `13. Kibana-Rule Alerts, Anomoly Detections`, `14. Power BI`, `15. OBIEE`, `16. AdvancedExcel-Advanced Templates`  
 
 **Databases: (ETL Developer)**  
