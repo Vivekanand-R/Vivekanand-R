@@ -9,7 +9,7 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 
 ## 🛠️ Technical Leadership
 
-**AI Models:**  
+**AI Models: (Researcher/Developer)**  
 
 `1. Deep Learning`, : Neural Networks, Transformers, xLSTM, Convolutional Neural Networks (CNNs), GAN's
 
@@ -19,28 +19,28 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 
 `4. Generative AI`, `LLM's` : GPT-4o API's, Phi2.
 
-**Autonomous AI Agents**
+**Autonomous AI Agents  (Developer)**
 
 `5. Langchain`, (AI Agents, Role: Dedicated Finance Analyst, LLM: GPT-40) - Application: Fintech, 
 
  `6. Microsoft Phi2` (Role: Healthcare Research Assistant, LLM: Phi2) - Application: Research
 
-**Cloud Platforms:**  
+**Cloud Platforms: (Developer/User)**  
 `7. AWS - S3, Athena, Redshift, Sagemaker, RDS`, `8. Azure- VM's, Databricks`, `9. Google Cloud-Colab Notebooks`, `10. Data Lake` 
 
-**BI & Visualization:**  
+**BI & Visualization: (Advanced Developer)** 
 `11. Tableau-Calculative Fields`, `12. Spotfire-Information Links, AI Models`, `13. Kibana-Rule Alerts, Anomoly Detections`, `14. Power BI`, `15. OBIEE`, `16. AdvancedExcel-Advanced Templates`  
 
-**Databases:**  
+**Databases: (ETL Developer)**  
 `17. Teradata`, `18. Oracle`, `19. RedShift`, `20. Greenplum`, `21. Athena`, `22. PostgreSQL`, `23. SQLite-Local Computations`  
 
-**Programming:**  
+**Programming: (Developer)**  
 `24. Python`, `25. R`, `26. SQL`, `27. VBA`, `28. HTML`, `29. Visual Basic`, `30. C# Basics`  
 
-**CI/CD & Automation:**  
+**CI/CD & Automation: (Developer/Approver)**  
 `31. AWS Code Pipeline`, `32. Rally`, `33. Python Automation`, `34. Excel Macros`  
 
-**Enterprise Systems:**  
+**Enterprise Systems: (User/Developer)**   
 `35. Oracle`, `36. SAP`, `37. Hyperion`, `38. Workday`, `39. Salesforce`, `40. Support Central`
 
 ---
