@@ -14,9 +14,13 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 
 **AI Models:**  
 
-`Deep Learning`, (Neural Networks, Transformers, xLSTM, Recommenders: Bert4REc, SAS4REc ), 
+`Deep Learning`, - Neural Networks, Transformers, xLSTM, Recommenders: Bert4REc, SAS4REc, 
 
-`Machine Learning` (Supervised/Unsupervised), `Generative AI`, `LLM's` (GPT-4o API's, Phi2).
+`Machine Learning` - Supervised/Unsupervised, 
+
+`Generative AI`, 
+
+`LLM's` - GPT-4o API's, Phi2.
 
 **Autonomous AI Agents**
 
