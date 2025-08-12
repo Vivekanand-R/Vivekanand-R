@@ -9,7 +9,7 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 
 ## 🛠️ Technical Leadership
 
-**AI Models: (Researcher/Developer)**  
+**AI Models: (Developer/Researcher)**  
 
 `1. Deep Learning`, : Neural Networks, Transformers, xLSTM, Convolutional Neural Networks (CNNs), GAN's
 
