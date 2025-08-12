@@ -9,7 +9,7 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 
 ## 🛠️ Technical Leadership
 
-**Artificial Intelligence: (Product Owner/Product Manager/Researcher)**  
+**Artificial Intelligence: (Skill Level: Product Owner/Product Manager/Researcher)**  
 
 `1. Deep Learning`, : Neural Networks, Transformers, xLSTM, Convolutional Neural Networks (CNNs), GAN's
 
@@ -19,7 +19,7 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 
 `4. Generative AI`, `LLM's` : GPT-4o API's, Phi2.
 
-**Autonomous AI Agents  (Skill Level: Consultant)**
+**Autonomous AI Agents  (Consultant)**
 
 `5. Langchain`, (AI Agents, Role: Dedicated Finance Analyst, LLM: GPT-40) - Application: Fintech, 
 
