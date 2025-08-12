@@ -11,11 +11,11 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 
 **AI Models:**  
 
-`1. Deep Learning`, : Neural Networks, Transformers, xLSTM, Convolutional Neural Networks (CNNs)
+`1. Deep Learning`, : Neural Networks, Transformers, xLSTM, Convolutional Neural Networks (CNNs), GAN's
 
 `2. Recommenders` : Sequencial Recommendations, Bert4REc, SAS4REc, Popularity Bias 
 
-`3. Machine Learning` : Supervised/Unsupervised, 
+`3. Machine Learning` : Supervised, Unsupervised, Linear Regression, Logistic Regression
 
 `4. Generative AI`, `LLM's` : GPT-4o API's, Phi2.
 
