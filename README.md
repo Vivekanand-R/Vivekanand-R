@@ -25,22 +25,22 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 
  `6. Microsoft Phi2` (Role: Research Assistant, LLM: Phi2) - Application: Research
 
-**Cloud Platforms: (Developer/User)**  
+**Cloud Platforms: (Functional Lead/Developer/Advanced User)**  
 `7. AWS - S3, Athena, Redshift, Sagemaker, RDS`, `8. Azure- VM's, Databricks`, `9. Google Cloud-Colab Notebooks`, `10. Data Lake` 
 
-**BI & Visualization: (Advanced Developer)** 
+**BI & Visualization: (Digital Product Leader/Manager - Advanced Developer)** 
 `11. Tableau-Calculative Fields`, `12. Spotfire-Information Links, AI Models`, `13. Kibana-Rule Alerts, Anomoly Detections`, `14. Power BI`, `15. OBIEE`, `16. AdvancedExcel-Advanced Templates`  
 
 **Databases: (ETL Developer)**  
 `17. Teradata`, `18. Oracle`, `19. RedShift`, `20. Greenplum`, `21. Athena`, `22. PostgreSQL`, `23. SQLite-Local Computations`  
 
-**Programming: (Developer)**  
+**Programming: (Advanced Developer)**  
 `24. Python`, `25. R`, `26. SQL`, `27. VBA`, `28. HTML`, `29. Visual Basic`, `30. C# Basics`  
 
 **CI/CD & Automation: (Developer/Approver)**  
 `31. AWS Code Pipeline`, `32. Rally`, `33. Python Automation`, `34. Excel Macros`  
 
-**Enterprise Systems: (User/Developer)**   
+**Enterprise Systems: (Advanced User/Developer)**   
 `35. Oracle`, `36. SAP`, `37. Hyperion`, `38. Workday`, `39. Salesforce`, `40. Support Central`
 
 ---
