@@ -20,15 +20,13 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 
 `Machine Learning` : Supervised/Unsupervised, 
 
-`Generative AI`, 
-
-`LLM's` : GPT-4o API's, Phi2.
+`Generative AI`, `LLM's` : GPT-4o API's, Phi2.
 
 **Autonomous AI Agents**
 
-1. `Langchain`, (AI Agents, Role: Dedicated Equity Analyst, LLM: GPT-40) - Application: Fintech, 
+1. `Langchain`, (AI Agents, Role: Dedicated Fintech Analyst, LLM: GPT-40) - Application: Fintech, 
 
-2. `Microsoft Phi2` (Role: Research Assitants, LLM: Phi2) - Application: Research
+2. `Microsoft Phi2` (Role: Research Experts, LLM: Phi2) - Application: Research
 
 **BI & Visualization:**  
 `Tableau`, `Spotfire`, `Kibana`, `Power BI`, `OBIEE`, `Excel`  
