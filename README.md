@@ -11,37 +11,37 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 
 **AI Models:**  
 
-1. `Deep Learning`, : Neural Networks, Transformers, xLSTM, Convolutional Neural Networks (CNNs)
+`1. Deep Learning`, : Neural Networks, Transformers, xLSTM, Convolutional Neural Networks (CNNs)
 
-2. `Recommenders` : Sequencial Recommendations, Bert4REc, SAS4REc, Popularity Bias 
+`2. Recommenders` : Sequencial Recommendations, Bert4REc, SAS4REc, Popularity Bias 
 
-3. `Machine Learning` : Supervised/Unsupervised, 
+`3. Machine Learning` : Supervised/Unsupervised, 
 
-4. `Generative AI`, `LLM's` : GPT-4o API's, Phi2.
+`4. Generative AI`, `LLM's` : GPT-4o API's, Phi2.
 
 **Autonomous AI Agents**
 
-1. `Langchain`, (AI Agents, Role: Dedicated Fintech Analyst, LLM: GPT-40) - Application: Fintech, 
+`5. Langchain`, (AI Agents, Role: Dedicated Fintech Analyst, LLM: GPT-40) - Application: Fintech, 
 
-2. `Microsoft Phi2` (Role: Research Experts, LLM: Phi2) - Application: Research
+ `6. Microsoft Phi2` (Role: Research Experts, LLM: Phi2) - Application: Research
 
 **Cloud Platforms:**  
-`AWS`, `Azure`, `Google Cloud`, `Data Lake` 
+`7. AWS`, `8. Azure`, `9. Google Cloud`, `10. Data Lake` 
 
 **BI & Visualization:**  
-`Tableau`, `Spotfire`, `Kibana`, `Power BI`, `OBIEE`, `Excel`  
+`11. Tableau`, `12. Spotfire`, `13. Kibana`, `14. Power BI`, `15. OBIEE`, `16. AdvancedExcel`  
 
 **Databases:**  
-`Teradata`, `Oracle`, `RedShift`, `Greenplum`, `Athena`, `PostgreSQL`, `SQLite`  
+`17. Teradata`, `18. Oracle`, `19. RedShift`, `20. Greenplum`, `21. Athena`, `22. PostgreSQL`, `23. SQLite`  
 
 **Programming:**  
-`Python`, `R`, `SQL`, `VBA`, `HTML`, `Visual Basic`, `C# Basics`  
+`24. Python`, `25. R`, `26. SQL`, `27. VBA`, `28. HTML`, `29. Visual Basic`, `30. C# Basics`  
 
 **CI/CD & Automation:**  
-`AWS Code Pipeline`, 'Rally', `Python Automation`, `Excel Macros`  
+`31. AWS Code Pipeline`, '32. Rally', `33. Python Automation`, `34. Excel Macros`  
 
 **Enterprise Systems:**  
-`Oracle`, `SAP`, `Hyperion`, `Workday`, `Salesforce`, `Support Central`
+`35. Oracle`, `36. SAP`, `37. Hyperion`, `38. Workday`, `39. Salesforce`, `40. Support Central`
 
 ---
 
