@@ -10,7 +10,7 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 ## 🛠️ Technical Leadership
 
 **Cloud Platforms:**  
-`AWS`, `Azure`, `Google Cloud`  
+`AWS`, `Azure`, `Google Cloud`, `Data Lake` 
 
 **AI Models:**  
 
