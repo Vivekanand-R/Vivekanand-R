@@ -21,7 +21,7 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 
 **Autonomous AI Agents**
 
-`5. Langchain`, (AI Agents, Role: Dedicated Equity Finance Analyst, LLM: GPT-40) - Application: Fintech, 
+`5. Langchain`, (AI Agents, Role: Dedicated Finance Analyst, LLM: GPT-40) - Application: Fintech, 
 
  `6. Microsoft Phi2` (Role: Research Expert, LLM: Phi2) - Application: Research
 
