@@ -12,6 +12,12 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 **Cloud Platforms:**  
 `AWS`, `Azure`, `Google Cloud`  
 
+**AI Agents:**  
+Langchain
+
+**AI:**  
+Deep Learning, Machine Learning, Generative AI, and LLM's.
+
 **BI & Visualization:**  
 `Tableau`, `Spotfire`, `Kibana`, `Power BI`, `OBIEE`, `Excel`  
 
