@@ -26,8 +26,9 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 
 **Autonomous AI Agents**
 
-`Langchain`, (AI Agents) - Fintech Applications, 
-`Microsoft Phi2` - Research Agents
+1. `Langchain`, (AI Agents, Role: Dedicated Equity Analyst, LLM: GPT-40) - Application: Fintech, 
+
+2. `Microsoft Phi2` (Role: Research Assitants, LLM: Phi2) - Application: Research
 
 **BI & Visualization:**  
 `Tableau`, `Spotfire`, `Kibana`, `Power BI`, `OBIEE`, `Excel`  
