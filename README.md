@@ -26,13 +26,13 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
  `6. Microsoft Phi2` (Role: Healthcare Research Assistant, LLM: Phi2) - Application: Research
 
 **Cloud Platforms:**  
-`7. AWS`, `8. Azure`, `9. Google Cloud`, `10. Data Lake` 
+`7. AWS - S3, Athena, Redshift, Sagemaker, RDS`, `8. Azure- VM's, Databricks`, `9. Google Cloud-Colab Notebooks`, `10. Data Lake` 
 
 **BI & Visualization:**  
-`11. Tableau`, `12. Spotfire`, `13. Kibana`, `14. Power BI`, `15. OBIEE`, `16. AdvancedExcel`  
+`11. Tableau-Calculative Fields`, `12. Spotfire-Information Links, AI Models`, `13. Kibana-Rule Alerts, Anomoly Detections`, `14. Power BI`, `15. OBIEE`, `16. AdvancedExcel-Advanced Templates`  
 
 **Databases:**  
-`17. Teradata`, `18. Oracle`, `19. RedShift`, `20. Greenplum`, `21. Athena`, `22. PostgreSQL`, `23. SQLite`  
+`17. Teradata`, `18. Oracle`, `19. RedShift`, `20. Greenplum`, `21. Athena`, `22. PostgreSQL`, `23. SQLite-Local Computations`  
 
 **Programming:**  
 `24. Python`, `25. R`, `26. SQL`, `27. VBA`, `28. HTML`, `29. Visual Basic`, `30. C# Basics`  
