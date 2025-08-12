@@ -16,7 +16,7 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 
 `Deep Learning`, : Neural Networks, Transformers, xLSTM, Convolutional Neural Networks (CNNs)
 
-`Recommenders` : Bert4REc, SAS4REc, 
+`Recommenders` : Sequencial Recommendations, Bert4REc, SAS4REc, Popularity Bias 
 
 `Machine Learning` : Supervised/Unsupervised, 
 
