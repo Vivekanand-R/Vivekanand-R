@@ -7,7 +7,7 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 
 ---
 
-## 🛠️ Technical Leadership
+## Technical Leadership
 
 **Artificial Intelligence: (Skill Level: Product Manager/Researcher)**  
 
