@@ -27,7 +27,7 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 
 **Cloud Platforms: (Functional Lead/Consultant/Expert User)** 
 
-`7. AWS - S3, Athena, Redshift, Sagemaker, RDS`, `8. Azure- VM's, Databricks`, `9. Google Cloud-Colab Notebooks`, `10. Data Lake` 
+`7. AWS - S3, Athena, Redshift, Sagemaker, RDS`, `8. Azure- VM's, Databricks`, `9. Google Cloud-Colab Notebooks/A100 GPU/Google Analytics/Adwords`, `10. Data Lake` 
 
 **BI & Visualization: (Digital Product Leader/Manager - Experienced Architect)** 
 
