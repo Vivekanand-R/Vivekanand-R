@@ -51,8 +51,8 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 
 ## Languages
 
-- **தமிழ் (Tamil)** – Native Speaker
 - **English** – Fluent  
+- **தமிழ் (Tamil)** – Native Speaker
 - **German** - Beginner (A2.1)
 ---
 
