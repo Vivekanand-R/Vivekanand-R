@@ -49,7 +49,7 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 
 ---
 
-## Interactive Application: [Webapp](https://interactive-github-p--vivekanand-r.github.app/)
+## Interactive Application: [Webapp](https://github.com/Vivekanand-R/interactive-github-p)
 
 
 ## Languages
