@@ -34,17 +34,17 @@ A results-driven Lead Product & Analytics with **10+ years of global experience*
 `11. Tableau-Calculative Fields`, `12. Spotfire-Information Links, AI Models`, `13. Kibana-Rule Alerts, Anomoly Detections`, `14. Power BI`, `15. OBIEE`, `16. AdvancedExcel-Advanced Templates`  
 
 
-**Databases: (Senior ETL Developer)**  
+**Databases:**  
 
 `17. Teradata`, `18. Oracle`, `19. RedShift`, `20. Greenplum`, `21. Athena`, `22. PostgreSQL`, `23. SQLite-Local Computations`  
 
-**Programming: (Senior Developer)**  
+**Programming: **  
 `24. Python`, `25. R`, `26. SQL`, `27. VBA`, `28. HTML`, `29. Visual Basic`, `30. C# Basics`  
 
-**CI/CD & Automation: (Developer/Approver)**  
+**CI/CD & Automation: **  
 `31. AWS Code Pipeline`, `32. Rally`, `33. Python Automation`, `34. Excel Macros`  
 
-**Enterprise Systems: (Advanced User/Developer)**   
+**Enterprise Systems: **   
 `35. Oracle`, `36. SAP`, `37. Hyperion`, `38. Workday`, `39. Salesforce`, `40. Support Central`
 
 ---
