@@ -1,6 +1,6 @@
 # Vivek
 
-A results-driven Lead Product & Analytics with **10+ years of global experience** delivering data-driven solutions across Healthcare, Finance, Energy, and IT services. Passionate about building intelligent systems that bridge the gap between product business strategy and data science innovation.
+A results-driven Lead Product & Analytics **10+ years of global experience** delivering data-driven solutions across Healthcare, Finance, Energy, and IT services. Passionate about building intelligent systems that bridge the gap between product business strategy and data science innovation.
 
 - **Industry Experience** – Overall 10 years: 8 years in `Digital Technology/IT`, 6 years in `Healthcare` Industry, 3 years in Energy, plus experience in HQ Commercial Finance.
 - **Career Interest** - AI Product Management and/or Commercial Product Data Analytics leadership roles.
