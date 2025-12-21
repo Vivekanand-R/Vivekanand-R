@@ -38,13 +38,13 @@ A results-driven Lead Product & Analytics with 10+ years of global experience de
 
 `17. Teradata`, `18. Oracle`, `19. RedShift`, `20. Greenplum`, `21. Athena`, `22. PostgreSQL`, `23. SQLite-Local Computations`  
 
-**Programming: **  
+**Programming:**  
 `24. Python`, `25. R`, `26. SQL`, `27. VBA`, `28. HTML`, `29. Visual Basic`, `30. C# Basics`  
 
-**CI/CD & Automation: **  
+**CI/CD & Automation:**  
 `31. AWS Code Pipeline`, `32. Rally`, `33. Python Automation`, `34. Excel Macros`  
 
-**Enterprise Systems: **   
+**Enterprise Systems:**   
 `35. Oracle`, `36. SAP`, `37. Hyperion`, `38. Workday`, `39. Salesforce`, `40. Support Central`
 
 ---
