@@ -59,7 +59,6 @@
 
 ## Let’s Connect
 
-📧 [vivekanandramakrishnan@outlook.com](mailto:vivekanandramakrishnan@outlook.com)  
 🌐 [Tableau Public](https://public.tableau.com/app/profile/vivekanand4623/vizzes)
 
 
