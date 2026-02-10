@@ -7,9 +7,13 @@
 
 ---
 
+## Functional Leadership 
+
+Product Management, Commercial Finance, Market strategy development, Go-to-market planning, Global Data Regulations, Cross Functional Colloborations,  Quality and Sales enablement
+
 ## Technical Leadership
 
-**Artificial Intelligence: (Skill Level: Product Manager/Researcher)**  
+**Artificial Intelligence**  
 
 `Deep Learning`, : Neural Networks, Transformers, xLSTM, Convolutional Neural Networks (CNNs), GAN's
 
@@ -27,11 +31,23 @@
 
 **Cloud Platforms:** 
 
-`AWS - S3, Athena, Redshift, Sagemaker, RDS`, `Azure- VM's, Databricks`, `Google Cloud-Colab Notebooks/A100 GPU/Google Analytics/Adwords`, `Data Lake` 
+`Amazon Web Server AWS` :- Data Lake, S3, Athena, Redshift, Sagemaker, RDS 
 
-**BI & Visualization: (Digital Product Leader/Manager - Experienced Architect)** 
+`Microsoft Azure` :- Azure- Virtual Machines, Databricks
 
-`Tableau-Calculative Fields`, `Spotfire-Information Links, AI Models`, `Kibana-Rule Alerts, Anomoly Detections`, `Power BI`, `OBIEE`, `AdvancedExcel-Advanced Templates`  
+`Google Cloud Platform` :- Colab Notebooks/A100 GPU/Google Analytics/Adwords/Vertex AI/Data Lake 
+
+**BI & Visualization:** 
+
+`Tableau/Salesforce` - Big Data Wrangling, Calculative Fields, Tooltips, Complex Joinings, 
+
+`Spotfire` - Information Links, AI Models, SQL, Complex Joins, Big Data, 
+
+`Kibana` - Rule Alerts, Anomoly Detections, Dashboards, 
+
+`Power BI` - Big Data Hostings, Dashboards
+
+`Microsoft Excel` - Advanced Templates and Automation
 
 
 **Databases:**  
