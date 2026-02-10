@@ -65,18 +65,12 @@ Product Management, Commercial Finance, Market strategy development, Go-to-marke
 
 ---
 
-
 ## Languages
 
 - **English** – Fluent  
 - **Tamil** – Native Speaker
 - **German** - Beginner (A2.1)
 ---
-
-## Let’s Connect
-
-🌐 [Tableau Public](https://public.tableau.com/app/profile/vivekanand4623/vizzes)
-
 
 ---
 
