@@ -50,18 +50,13 @@ Product Management, Commercial Finance, Market strategy development, Go-to-marke
 `Microsoft Excel` - Advanced Templates and Automation
 
 
-**Databases:**  
+**Databases:**  `Teradata`, `Oracle`, `RedShift`, `Greenplum`, `Athena`, `PostgreSQL`, `SQLite-Local Computations`  
 
-`Teradata`, `Oracle`, `RedShift`, `Greenplum`, `Athena`, `PostgreSQL`, `SQLite-Local Computations`  
+**Programming:**  `Python`, `R`, `SQL`, `VBA`, `HTML`, `Visual Basic`, `C# Basics`  
 
-**Programming:**  
-`Python`, `R`, `SQL`, `VBA`, `HTML`, `Visual Basic`, `C# Basics`  
+**CI/CD & Automation:**  `AWS Code Pipeline`, `Rally`, `Python Automation`, `Excel Macros`  
 
-**CI/CD & Automation:**  
-`AWS Code Pipeline`, `Rally`, `Python Automation`, `Excel Macros`  
-
-**Enterprise Systems:**   
-`Oracle`, `SAP`, `Hyperion`, `Workday`, `Salesforce`, `Support Central`
+**Enterprise Systems:**   `Oracle`, `SAP`, `Hyperion`, `Workday`, `Salesforce`, `Support Central`
 
 ---
 
