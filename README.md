@@ -29,6 +29,9 @@ Product Management, Commercial Finance, Market strategy development, Go-to-marke
 
  `Microsoft Phi2` (Role: Research Assistant, LLM: Phi2) - Application: Research
 
+  `Microsoft Phi2` (Role: Observability Monitor, LLM: Phi2) - Application: Observability
+ 
+
 **Cloud Platforms:** 
 
 `Amazon Web Server AWS` :- Data Lake, S3, Athena, Redshift, Sagemaker, RDS 
