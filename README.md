@@ -42,15 +42,15 @@ Product Management, Commercial Finance, Market strategy development, Go-to-marke
 
 **BI & Visualization:** 
 
-`Tableau/Salesforce` - Big Data Wrangling, Calculative Fields, Tooltips, Complex Joinings, 
+`Tableau/Salesforce` - LOD expressions, live and extract, Big Data Wrangling, Calculative Fields, Tooltips, Complex Joinings, custom SQL, context filters and data source filters
 
-`Spotfire` - Information Links, AI Models, SQL, Complex Joins, Big Data, 
+`Spotfire` - Information Links, AI Models, SQL, Complex Joins, Big Data, custom expressions using TERR
 
-`Kibana` - Rule Alerts, Anomoly Detections, Dashboards, 
+`Kibana` - KQL (Kibana Query Language), Rule Alerts, Anomoly Detections Jobs, indexing strategies. 
 
-`Power BI` - Big Data Hostings, Dashboards
+`Power BI` - Big Data Hostings, DAX
 
-`Microsoft Excel` - Advanced Templates and Automation
+`Microsoft Excel` - Power Pivot, logical constructs, dynamic array functions, data models using Power Pivot, conditional formatting and data validation rules
 
 
 **Databases:**  `Teradata`, `Oracle`, `RedShift`, `Greenplum`, `Athena`, `PostgreSQL`, `SQLite-Local Computations`  
