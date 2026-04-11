@@ -21,15 +21,15 @@ Product Management, Commercial Finance, Market strategy development, Go-to-marke
 
 `Machine Learning` : Supervised, Unsupervised, Linear Regression, Logistic Regression
 
-`Generative AI`, `LLM's` : GPT-4o API's, Phi2.
+`Generative AI`, `LLM's` : GPT-5.2, GPT-4o API's, Phi3, Nemotron.
 
 **Autonomous AI Agents:**
 
-`Langchain`, (AI Agents, Role: Dedicated Finance Analyst, LLM: GPT-40) - Application: Fintech, 
+ `Gemma 4/Microsoft Phi3` (Role: Research Assistant, LLM: Phi2) - Application: Research
 
- `Microsoft Phi2` (Role: Research Assistant, LLM: Phi2) - Application: Research
+`Langchain/Nemotron`, (AI Agents, Role: Finance Analyst, LLM: GPT-40) - Application: Fintech, 
 
-  `Microsoft Phi2` (Role: Observability Monitor, LLM: Phi2) - Application: Observability
+ `Nemotron/Gemma 4/Microsoft Phi3` (Role: Observability Monitor, LLM: Phi2) - Application: Observability
  
 
 **Cloud Platforms:** 
