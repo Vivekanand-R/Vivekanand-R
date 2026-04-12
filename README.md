@@ -36,7 +36,7 @@ Product Management, Commercial Finance, Market strategy development, Go-to-marke
 
 `Amazon Web Server AWS` :- Data Lake, S3, Athena, Redshift, Sagemaker, RDS 
 
-`Microsoft Azure` :- Azure Container Apps, App Service, Azure Container Registry, AI Studio, Subscription, Resource Group, Azure Database for PostgreSQL Flexible Server, Key Vault, Azure Monitor, Virtual Machines, Databricks, Azure Observalibilty
+`Microsoft Azure` :- Azure Container Apps, App Service, Azure Container Registry, AI Studio, Subscription, Resource Group, Azure Database for PostgreSQL Flexible Server, Key Vault, Azure Monitor, Virtual Machines, Databricks, Azure observability
 
 `Google Cloud Platform` :- Colab Notebooks/A100 GPU/Google Analytics/Adwords/Vertex AI/Data Lake 
 
