@@ -42,7 +42,7 @@ Product Management, Commercial Finance, Market strategy development, Go-to-marke
 
 **BI & Visualization:** 
 
-`Tableau/Salesforce` - LOD expressions, live and extract, Big Data Wrangling, Calculative Fields, Tooltips, Complex Joinings, custom SQL, context filters and data source filters
+`Tableau/Salesforce` - LOD expressions, live and extract, Big Data Wrangling, Calculative Fields, Tooltips, Complex Joinings, custom SQL, context filters, data source filters, Performance Recording, Query Optimization and Tableau Prep Flows
 
 `Spotfire` - Information Links, AI Models, SQL, Complex Joins, Big Data, custom expressions using TERR
 
