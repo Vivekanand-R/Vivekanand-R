@@ -25,11 +25,11 @@ Product Management, Commercial Finance, Market strategy development, Go-to-marke
 
 **Autonomous AI Agents:**
 
- `Gemma 4/Microsoft Phi3` (Role: Research Assistant, LLM: Phi2) - Application: Research
+ `Gemma 4/Microsoft Phi3` (Role: Research Assistant) - Application: Research
 
-`Langchain/Nemotron`, (AI Agents, Role: Finance Analyst, LLM: GPT-40) - Application: Fintech, 
+`Langchain/Nemotron`, (AI Agents, Role: Finance Analyst) - Application: Fintech, 
 
- `Nemotron/Gemma 4/Microsoft Phi3` (Role: Observability Monitor, LLM: Phi2) - Application: Observability
+ `Nemotron/Gemma 4/Microsoft Phi3` (Role: Observability Monitor) - Application: Observability
  
 
 **Cloud Platforms:** 
